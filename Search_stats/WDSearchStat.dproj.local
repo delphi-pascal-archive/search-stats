@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2009.09.22 15:36:04.203.dproj,C:\Documents and Settings\Vlad_55\Мои документы\RAD Studio\Projects\Package1.dproj=C:\Documents and Settings\Vlad_55\Мои документы\RAD Studio\Projects\WDSearchStat.dproj</Transaction>
+    <Transaction>2009.09.22 15:37:22.250.pas,C:\Documents and Settings\Vlad_55\Мои документы\RAD Studio\Projects\Unit2.pas=D:\Work_Disk\Delphi-Work\Компонент SearchStat\SearchStat.pas</Transaction>
+    <Transaction>2009.09.22 15:37:24.718.dproj,C:\Documents and Settings\Vlad_55\Мои документы\RAD Studio\Projects\WDSearchStat.dproj=D:\Work_Disk\Delphi-Work\Компонент SearchStat\WDSearchStat.dproj</Transaction>
+    <Transaction>2009.09.22 15:57:00.015.pas,D:\Work_Disk\Delphi-Work\Блевантон\Блевантон 2_0\Компоент Parser\Buba_Parser.pas=</Transaction>
+    <Transaction>2009.09.22 16:34:13.437.pas,D:\Work_Disk\Delphi-Work\Компонент SearchStat\Unit1.pas=D:\Work_Disk\Delphi-Work\Компонент SearchStat\InetThread.pas</Transaction>
+  </Transactions>
+</BorlandProject>
